@@ -1,2 +1,2 @@
-<h1> Projeto de estudos:</h1> WebDesign Responsivo
-da Plataforma: FreeCodeCamp
+<h1> Códigod de estudos:</h1> WebDesign Responsivo
+do FreeCodeCamp,  baseado no curso: https://www.youtube.com/watch?v=srvUrASNj0s&t=940s
